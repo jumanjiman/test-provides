@@ -38,4 +38,7 @@ in particular, this package has a crazy NVR.
 
 
 %changelog
+* Mon Feb 28 2011 Paul Morgan <jumanjiman@gmail.com> 001.002.000-4
+- new package built with tito
+
 
