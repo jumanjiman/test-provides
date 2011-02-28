@@ -42,4 +42,7 @@ having a crazy NVR.
 
 
 %changelog
+* Mon Feb 28 2011 Paul Morgan <jumanjiman@gmail.com> 1.2.200-1
+- new package built with tito
+
 
